@@ -51,6 +51,7 @@
 - 터미널에서 작성법:
 
 ```
+git pull
 git add . (로컬 파일 삭제 안할 시)
 git add --ignore-removal . (로컬 파일 삭제 시)
 git commit -m "[BOJ] 250811 2557.java"
